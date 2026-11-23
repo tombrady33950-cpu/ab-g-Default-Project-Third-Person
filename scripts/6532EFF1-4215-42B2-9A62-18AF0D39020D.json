@@ -1,0 +1,1002 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "6532EFF1-4215-42B2-9A62-18AF0D39020D"
+    },
+    "name": "Jog Forward Diagonal.fbx",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": true,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "10BB70DC-C4DD-45C7-8A13-F32AFC310B7F"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "AA852653-C6EB-4174-B29E-D504E43D605D"
+                    }
+                },
+                "animation": {
+                    "uuid": "E1FEAFFA-5923-4104-A14C-B08CDBA6B0EA"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "96DFB737-8B02-4C0B-B691-940DB1B09F29"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "C142FB53-A4E1-482E-9A8E-55B2287060DE"
+                    }
+                },
+                "animation": {
+                    "uuid": "20FAF75F-4CFE-47D5-A333-C3A591E4D506"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "791D484C-CF90-49E3-8CDC-55A439B61B1A"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "66FA9ED9-901F-40E3-B80D-B70683CC4F01"
+                    }
+                },
+                "animation": {
+                    "uuid": "7C916C6B-CB5C-44FE-AE0C-5D5A58F9407A"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "15266DB5-1C59-4354-9430-A678560D65AF"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "28D989A6-3B17-4616-8329-84B0F2413A7F"
+                    }
+                },
+                "animation": {
+                    "uuid": "9D21E5C5-1577-4AF6-B14B-5F4E08D83750"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "6EA6654D-CA0A-49D8-9BEE-9EB895FA5A61"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "FE50BEFE-389B-4E1C-99B7-B21442EE69B9"
+                    }
+                },
+                "animation": {
+                    "uuid": "2D0DA8FE-5511-493A-B97F-492E923389BB"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "903416B9-BFF7-486A-8A72-3DDC9B57B981"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "496E191A-C58F-40CE-AAD1-FCF39CD86702"
+                    }
+                },
+                "animation": {
+                    "uuid": "86E713B9-2B75-4045-BAD8-D53E59F1A027"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "E72DD758-A381-4A7E-8CD2-99CFDB5E0D42"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "A9BCBA57-9491-4A52-867D-FF32D780F835"
+                    }
+                },
+                "animation": {
+                    "uuid": "44906FD5-1BF0-4942-8EF0-CB5A6A7EAF92"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "EC19937B-7CC7-4B6B-BA9C-8DE8FE592FA8"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "D94765F0-45B1-4464-9FC7-8BFA4625A9A9"
+                    }
+                },
+                "animation": {
+                    "uuid": "45D47367-0941-47B0-9A03-161B5DF333E5"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "20DD1FCF-818E-4E43-B36A-074C25F680F9"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "AB50FB33-E29D-4608-AA91-E7FBFD34BEFD"
+                    }
+                },
+                "animation": {
+                    "uuid": "C5E167F7-B234-4122-B21C-64B9C192ABE7"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "BC1252BD-266D-4C18-9C8B-88BC98772AC9"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "498CA4EF-FAB3-47D0-BFDC-15D594338390"
+                    }
+                },
+                "animation": {
+                    "uuid": "C133955E-A3C2-481B-861A-078204BCAC6D"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "4BE91C48-5EE2-46EF-B6A3-D86E309E586A"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "B6E9990E-E535-4328-9083-548C76F6F11B"
+                    }
+                },
+                "animation": {
+                    "uuid": "9E293106-3535-4F86-BDB6-B869047EEAA0"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "43553781-4C23-47E2-A5CF-9FCFC41D023D"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "22BF3AC3-CC8D-4888-8A05-32954E78D1CF"
+                    }
+                },
+                "animation": {
+                    "uuid": "81110617-BBA7-4857-AA4D-95648AFDD8DE"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "26F18B47-B028-426D-B7FC-045FD6ECA7B1"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "7F192C10-3E50-4F09-A01D-0CC66BED93F6"
+                    }
+                },
+                "animation": {
+                    "uuid": "78CA6062-4DEE-40A4-A8A2-C80302A006F1"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "75815FCF-8A5D-42E3-A4E2-4C527004201A"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "207DD46E-5041-46D6-A66F-975531BFFE21"
+                    }
+                },
+                "animation": {
+                    "uuid": "40E4941E-8E0F-4EAC-A8BA-EB817774A90D"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "C2781A85-3D55-4273-A46C-6F73E4149B1C"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "F09FC44A-783C-4A1B-B944-C601E5D1F0B4"
+                    }
+                },
+                "animation": {
+                    "uuid": "4E15C450-F5BD-4633-B6BF-4F9F80B89F9D"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "F5A6CCC9-0498-4FAF-91EA-A38853DED50C"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "9ECADBAA-35DB-4E14-A71F-4216CE2C49B7"
+                    }
+                },
+                "animation": {
+                    "uuid": "3B0B8FBA-3CD3-486A-ADC1-850F5F89ADB5"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "A870CBFB-AE14-48EC-8E6A-4AA7CFE6913E"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "51200E17-5170-48DE-8BE9-BF102B55A62A"
+                    }
+                },
+                "animation": {
+                    "uuid": "3A9B8C3B-C481-4379-8CD5-B905CEA20B93"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "6DDA0247-C893-4006-BFDD-DAF0D65E0987"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "8395C772-354C-4D19-871F-A9F7482763A6"
+                    }
+                },
+                "animation": {
+                    "uuid": "AEB4870D-0241-4015-8123-FF304863AD3B"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "9019CA1C-0E3C-4681-8254-A35D1EC2E29B"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "F6921C31-8A69-448B-BC82-14C0D3079AAF"
+                    }
+                },
+                "animation": {
+                    "uuid": "E6D102DC-39B1-4C75-8E5A-E505AC0EB33C"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "0F111303-3B56-4D03-9C49-CE2367066541"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "134099DD-940F-41DD-AA61-1753C5FC9ACA"
+                    }
+                },
+                "animation": {
+                    "uuid": "E8423EFC-AE50-469C-919B-095D7754A1B6"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "13F5285C-A598-4575-965A-B6C9ACC1BCD1"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "59FD429D-42EC-47F9-8094-27934485C515"
+                    }
+                },
+                "animation": {
+                    "uuid": "F106B205-DAEA-452A-90B4-174CF8535311"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "17B136B2-4A0B-4D24-A9C3-E233D613DE8A"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "79EFF61E-DA5E-4FF2-8E6A-21DFA300CB44"
+                    }
+                },
+                "animation": {
+                    "uuid": "2A8E9225-4204-4A7B-956B-D70DA67FB931"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "9328E556-D40A-4623-A7DF-FF8B8FD84C3A"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "BEF51A62-6965-416D-80E3-32B1CC79E042"
+                    }
+                },
+                "animation": {
+                    "uuid": "5B8EB7FC-0B1B-4994-A3F8-947352D37916"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "0993B0AD-7FC8-4CE9-8423-A287661FA31E"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "EDD5507D-3CF0-4A60-9D93-6CF2C8A3F6FD"
+                    }
+                },
+                "animation": {
+                    "uuid": "9975C2C7-7AA8-4E95-8E48-530ABDA6800E"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "752F543D-F366-4334-85FA-618B14345BA6"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "CDD82F10-4BC7-4BD3-9A11-8D8D60EBC403"
+                    }
+                },
+                "animation": {
+                    "uuid": "5CB82AFA-3B4A-4E03-B109-E8BE4DF79FB0"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "C0D08B56-73A2-4413-9691-B92247CBF192"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "393B86D6-7B1B-49B8-8170-BAF0F5DB10C9"
+                    }
+                },
+                "animation": {
+                    "uuid": "06A0ACEB-6D97-4FE6-8280-E203DA3D478D"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "61E52521-F611-4214-BC55-CED33D07B8C9"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "568B2E20-9EFC-447D-B4D7-043372F7C274"
+                    }
+                },
+                "animation": {
+                    "uuid": "89C1E128-92F6-43AB-89DA-4C629143D5BA"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "EF0303F0-B166-4EFC-A15F-A90896CA12B3"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "CA92DEAE-1648-4043-8072-76280D797D00"
+                    }
+                },
+                "animation": {
+                    "uuid": "04B2B4E1-4A0E-4F8C-A04B-620E4A513815"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "C5218951-2993-4B50-8662-AE798CF84F30"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "11ED2D96-2E62-4BDB-9BD0-F9C2ACEFA2EA"
+                    }
+                },
+                "animation": {
+                    "uuid": "D96CC9F9-B9A9-40CC-9D95-AE7C6FDAE246"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "A5AB7B93-53B7-49CA-A099-635645A76E3D"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "AFC0B99A-B7FB-48F2-A000-137BF6971CB3"
+                    }
+                },
+                "animation": {
+                    "uuid": "29019CE4-81CA-4525-B2CC-D6919612A57E"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "25B30317-D322-4810-A1CA-94B734F6A011"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "702C32B9-1AD5-4E6D-9411-C28DB421609B"
+                    }
+                },
+                "animation": {
+                    "uuid": "6DA16B1C-6805-42E6-B971-864236DDEAB4"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "694B784B-E8ED-4366-89BF-8E0515543A51"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "456A48D9-5ADD-4867-9211-D9876FF6EC1D"
+                    }
+                },
+                "animation": {
+                    "uuid": "3285407E-27A3-420E-A542-1EF3D67A1D62"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "083CE6AC-CDFB-4E80-B399-681B9E7EAB55"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "A557AC25-3253-4CCA-99F0-8459350D45C7"
+                    }
+                },
+                "animation": {
+                    "uuid": "D5951E1F-81DE-4C81-9B61-7F9BC7614612"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "01EC3B8F-B709-4B56-8573-010CE3660CD9"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "75CA5504-0FFB-486E-AB74-940479C02E81"
+                    }
+                },
+                "animation": {
+                    "uuid": "284E22A4-BB02-485C-AB3B-CBFCBEEA392A"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "A7EF7F68-E8FB-483F-947F-03522DBA6540"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "DCD232F7-86FE-4975-806A-50B6A71DDFD2"
+                    }
+                },
+                "animation": {
+                    "uuid": "AEDFB2A9-659F-4CD8-956F-8AE132433913"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "89C06B97-B33A-484E-A8A3-0AF072708B62"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "98B8E02B-787E-47A8-8923-A8337CD6474B"
+                    }
+                },
+                "animation": {
+                    "uuid": "461922CB-A443-4FA5-A4A1-EF4F9E59AC98"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "98C2FD5F-27C7-452A-A465-32D85E52C670"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "22CD1667-9716-4920-BA2D-B76398B80F3A"
+                    }
+                },
+                "animation": {
+                    "uuid": "1A2CB365-6E05-44E9-ACC4-E17535AEF0AD"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "102B1B90-BB33-4144-82D7-28465C4AD337"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "B9217959-D1E8-4BDE-9378-446312CAEC7C"
+                    }
+                },
+                "animation": {
+                    "uuid": "29130881-CEC6-44A3-8753-2A44683A4BFF"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "2F33AECF-006E-4233-B992-2F5C15FEDD6F"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "8697E392-61A4-40A9-9C68-FFD278A34784"
+                    }
+                },
+                "animation": {
+                    "uuid": "92B359C1-CA96-4931-BF70-12337BB08A52"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "6498ABFB-304B-41F3-9697-D127123D5EFD"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "FE834CBD-F211-4A22-B5D2-1C6783667BC1"
+                    }
+                },
+                "animation": {
+                    "uuid": "7C96E715-4C9D-429B-9CD2-196556A636A6"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "27EC4688-4BAF-403E-9239-5367DB7B19C5"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "8D614747-6A0D-4852-833B-F5B32EE65DBF"
+                    }
+                },
+                "animation": {
+                    "uuid": "4906177B-8A23-4B44-9B6C-11ECA2BD5612"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "5DE8AB57-0528-4C99-9301-2F8AA89D4E6F"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "D8F82607-D23F-48B5-802E-F9EA9EBBD8F0"
+                    }
+                },
+                "animation": {
+                    "uuid": "092EDA7C-24E3-495E-A9E9-7D4707275E6B"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "325E37CA-F8C9-4409-A01B-0A800C2F4DF1"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "E1D0D9D9-DC4F-4A32-B291-D17D3DD3A030"
+                    }
+                },
+                "animation": {
+                    "uuid": "1EB51AD1-FC4E-4DC3-B93F-068FAFB3DCF8"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "21677A82-E7FF-454B-AF84-904E896589BB"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "2F05B962-B097-46C3-A8A4-BFEE468158EA"
+                    }
+                },
+                "animation": {
+                    "uuid": "637F15F4-F444-4315-9A9A-7C92F170D118"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "8745B018-CE7C-4388-9E5B-6EDD5D0D31A6"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "4FD649F0-6223-4DD1-84A0-78F48220B5E3"
+                    }
+                },
+                "animation": {
+                    "uuid": "9B282E1A-3ADB-41B1-B709-59C1B81B20C5"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "59B7F933-06D7-4543-B0F1-14047560B98D"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "1969A278-FA53-41B1-A6BC-0BA1AB3C3F1E"
+                    }
+                },
+                "animation": {
+                    "uuid": "48B7AE31-D512-4A9C-BDA5-81BD65E1042A"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "137EBA30-3EF3-426E-818E-6AE88DFCACDB"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "1DA867A7-B140-48F2-A974-1041A8C2BF4B"
+                    }
+                },
+                "animation": {
+                    "uuid": "E79C76FC-066E-43CB-9A24-DE7455786B15"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "50D1124B-8798-4D1D-9790-46D8E5BE13A1"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "837160DA-0209-4B5E-BB89-655A78DDDF6B"
+                    }
+                },
+                "animation": {
+                    "uuid": "9DD0D6CE-1EB6-411F-9BC2-5857DB53DF2D"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "07E39659-B6C2-4AF4-ACF2-22FBB7E504A6"
+                },
+                "name": "AnimationScript",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "407CEBE5-BE7F-48FE-B1C4-0E270C0D9577"
+                    }
+                },
+                "animation": {
+                    "uuid": "E4056FDB-DEA5-416C-9F4F-F5E311ABFE6F"
+                },
+                "AnimationType": "object3D",
+                "is_imported": true,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": []
+}

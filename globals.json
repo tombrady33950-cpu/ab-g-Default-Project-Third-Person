@@ -1,0 +1,17 @@
+{
+    "@class": "VariousSymbolTable",
+    "id": {
+        "uuid": "F79B4F28-C34C-4561-963F-5102BB1D1666"
+    },
+    "variables": [
+        {
+            "@class": "VariantVariable",
+            "id": {
+                "uuid": "BEE0F417-43AA-4C37-80C0-4CD4A62CBD4E"
+            },
+            "name": "object__8249EE8F_1B42_44FF_8D0A_47B8AB7F7327__rot_speed",
+            "type": "float",
+            "value": 20.0
+        }
+    ]
+}

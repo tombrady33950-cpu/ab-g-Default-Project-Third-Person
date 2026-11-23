@@ -1,0 +1,43 @@
+{
+    "@class": "PhysicsBody",
+    "id": {
+        "uuid": "D6A64680-C956-4EB4-80D5-840CA8CA05C5"
+    },
+    "physBodyType": "static",
+    "physSurfaceType": "defaultSurfaceType",
+    "mass": 10.0,
+    "friction": 1.0,
+    "bounciness": 0.5,
+    "lockPositionX": false,
+    "lockPositionY": false,
+    "lockPositionZ": false,
+    "lockRotationX": false,
+    "lockRotationY": false,
+    "lockRotationZ": false,
+    "gravity": {
+        "values": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "useCustomGravity": false,
+    "useCCD": false,
+    "ccdSweptSphereRadius": 0.0,
+    "ccdMotionThreshold": 0.0,
+    "useLocalInitialVelocities": false,
+    "initLinearVelocity": {
+        "values": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "initAngularVelocity": {
+        "values": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    }
+}

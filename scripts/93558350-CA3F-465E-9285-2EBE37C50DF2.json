@@ -1,0 +1,90 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "93558350-CA3F-465E-9285-2EBE37C50DF2"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "B6449069-F98F-41E9-96FE-C943ADE2FB23"
+                },
+                "name": "Inserted animations",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink"
+                },
+                "animation": {
+                    "uuid": "4A247E79-C09A-4CE6-932A-816AC884DB86"
+                },
+                "AnimationType": "timeline",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "StateMachineTrigger",
+            "id": {
+                "uuid": "25C58645-5330-4D19-BD29-C9DEAE37B6E9"
+            },
+            "ownerScriptId": {
+                "uuid": "93558350-CA3F-465E-9285-2EBE37C50DF2"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "event": 1,
+            "stateBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "09004431-497D-4D65-8629-F1AAC9F6392A"
+                }
+            },
+            "objectBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "B5820AE1-5A8F-4902-9F66-D14F23AA6FE4"
+                }
+            }
+        },
+        {
+            "@class": "StateMachineTrigger",
+            "id": {
+                "uuid": "E0C7E650-C924-43F2-817D-9C4FDC95423B"
+            },
+            "ownerScriptId": {
+                "uuid": "93558350-CA3F-465E-9285-2EBE37C50DF2"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "event": 1,
+            "stateBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "43EBAD7F-239F-4DD9-B532-E27C7D338845"
+                }
+            },
+            "objectBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "B5820AE1-5A8F-4902-9F66-D14F23AA6FE4"
+                }
+            }
+        }
+    ]
+}

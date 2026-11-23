@@ -1,0 +1,67 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "8D0B86AB-A748-4A94-A43C-22263D5C9D9D"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": true,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "0416E181-FC50-4A20-81FD-FD10F002B8D0"
+                },
+                "name": "Box",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "8249EE8F-1B42-44FF-8D0A-47B8AB7F7327"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 2,
+                        "name": "Camera Target",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 0,
+                            "name": "Box"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "71525385-291F-49C9-BBF1-DD0BC05E1B4B"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "KeyTrigger",
+            "id": {
+                "uuid": "8F6A6F00-E24A-4D98-98C5-A99AA78C761A"
+            },
+            "ownerScriptId": {
+                "uuid": "8D0B86AB-A748-4A94-A43C-22263D5C9D9D"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "keyCode": 70,
+            "state": 1
+        }
+    ]
+}

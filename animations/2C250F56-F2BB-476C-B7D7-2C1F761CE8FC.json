@@ -1,0 +1,94 @@
+{
+    "@class": "Animation",
+    "id": {
+        "uuid": "2C250F56-F2BB-476C-B7D7-2C1F761CE8FC"
+    },
+    "tracks": [
+        {
+            "@class": "Vector3BehaviorTrack",
+            "clips": [
+                {
+                    "@class": "Vector3BehaviorClip",
+                    "beginTime": 0,
+                    "duration": 833,
+                    "script": "Vector3ValueBehaviorClipScript",
+                    "behavior": {
+                        "@class": "Vector3PlainBehavior",
+                        "times": [
+                            0,
+                            833
+                        ],
+                        "values": [
+                            -4.0978193283081057e-8,
+                            0.02470000647008419,
+                            -5.029141902923584e-8,
+                            2.0489096641540528e-8,
+                            0.024700000882148744,
+                            2.9802322387695315e-8
+                        ]
+                    }
+                }
+            ],
+            "script": "Vector3BehaviorTrackScript",
+            "accessor": "PositionBlendAccessor"
+        },
+        {
+            "@class": "QuaternionBehaviorTrack",
+            "clips": [
+                {
+                    "@class": "QuaternionBehaviorClip",
+                    "beginTime": 0,
+                    "duration": 833,
+                    "script": "QuaternionValueBehaviorClipScript",
+                    "behavior": {
+                        "@class": "QuaternionPlainBehavior",
+                        "times": [
+                            0,
+                            833
+                        ],
+                        "values": [
+                            0.19280381500720979,
+                            6.45408917421264e-8,
+                            5.884610843054361e-8,
+                            0.9812373518943787,
+                            0.19280381500720979,
+                            6.45408917421264e-8,
+                            6.074436953440454e-8,
+                            0.9812373518943787
+                        ]
+                    }
+                }
+            ],
+            "script": "QuaternionBehaviorTrackScript",
+            "accessor": "RotationQBlendAccessor"
+        },
+        {
+            "@class": "Vector3BehaviorTrack",
+            "clips": [
+                {
+                    "@class": "Vector3BehaviorClip",
+                    "beginTime": 0,
+                    "duration": 833,
+                    "script": "Vector3ValueBehaviorClipScript",
+                    "behavior": {
+                        "@class": "Vector3PlainBehavior",
+                        "times": [
+                            0,
+                            833
+                        ],
+                        "values": [
+                            1.0000001192092896,
+                            1.0,
+                            0.9999999403953552,
+                            1.0,
+                            1.0,
+                            0.9999999403953552
+                        ]
+                    }
+                }
+            ],
+            "script": "Vector3BehaviorTrackScript",
+            "accessor": "ScaleBlendAccessor"
+        }
+    ]
+}

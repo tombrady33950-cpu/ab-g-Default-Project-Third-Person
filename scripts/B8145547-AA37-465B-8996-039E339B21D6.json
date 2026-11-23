@@ -1,0 +1,67 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "B8145547-AA37-465B-8996-039E339B21D6"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": true,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "06CECA26-5D71-48B0-884C-E1CC58D31368"
+                },
+                "name": "Box",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "8249EE8F-1B42-44FF-8D0A-47B8AB7F7327"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 2,
+                        "name": "Camera Target",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 0,
+                            "name": "Box"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "F7BE6251-1385-41C9-B852-EEF187DA4E7F"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "KeyTrigger",
+            "id": {
+                "uuid": "28F238D7-13A2-4951-B93F-E077E8966B48"
+            },
+            "ownerScriptId": {
+                "uuid": "B8145547-AA37-465B-8996-039E339B21D6"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "keyCode": 72,
+            "state": 1
+        }
+    ]
+}

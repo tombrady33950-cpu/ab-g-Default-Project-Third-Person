@@ -1,0 +1,65 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "9DE244E6-DA63-4384-9074-09CB3CF82B8C"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": true,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "51480228-0CFD-4EC6-BBE5-5588A51102E8"
+                },
+                "name": "Inserted animations",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink"
+                },
+                "animation": {
+                    "uuid": "0174D68B-28F5-44BB-834F-B9C1FF79DEC8"
+                },
+                "AnimationType": "timeline",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "StateMachineTrigger",
+            "id": {
+                "uuid": "7424004B-AD0A-4965-BA9C-7BA3903CC1D5"
+            },
+            "ownerScriptId": {
+                "uuid": "9DE244E6-DA63-4384-9074-09CB3CF82B8C"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "event": 3,
+            "stateBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "B968950F-1312-46C0-827A-C3F69DDF070B"
+                }
+            },
+            "objectBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "B5820AE1-5A8F-4902-9F66-D14F23AA6FE4"
+                }
+            }
+        }
+    ]
+}

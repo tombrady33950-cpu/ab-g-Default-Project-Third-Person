@@ -1,0 +1,67 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "5F4A31E9-9032-4EB3-A4FF-9EC27FB053E8"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": true,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "A6FAE7C7-E745-4771-B2A4-E3D14E722E4A"
+                },
+                "name": "Camera Target",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "8249EE8F-1B42-44FF-8D0A-47B8AB7F7327"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 2,
+                        "name": "Camera Target",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 0,
+                            "name": "Box"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "77E6836E-B8A9-40B5-A0C9-1E983B3652E6"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "KeyTrigger",
+            "id": {
+                "uuid": "A16FF846-55B4-4CDE-B986-67E49F2D851A"
+            },
+            "ownerScriptId": {
+                "uuid": "5F4A31E9-9032-4EB3-A4FF-9EC27FB053E8"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "keyCode": 71,
+            "state": 1
+        }
+    ]
+}

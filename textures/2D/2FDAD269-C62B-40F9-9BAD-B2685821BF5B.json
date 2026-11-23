@@ -1,0 +1,13 @@
+{
+    "@class": "Texture2D",
+    "id": {
+        "uuid": "2FDAD269-C62B-40F9-9BAD-B2685821BF5B"
+    },
+    "name": "",
+    "image": {
+        "@class": "DevILImage",
+        "id": {
+            "uuid": "862C9F09-CE68-4814-8115-E4D31A5D5370"
+        }
+    }
+}

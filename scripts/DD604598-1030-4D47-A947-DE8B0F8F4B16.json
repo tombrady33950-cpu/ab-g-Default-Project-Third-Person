@@ -1,0 +1,20 @@
+{
+    "@class": "Script_FogFX",
+    "id": {
+        "uuid": "DD604598-1030-4D47-A947-DE8B0F8F4B16"
+    },
+    "name": "Script_FogFX",
+    "enableOnAwake": false,
+    "fog_enabled": false,
+    "fog_start": 0.25,
+    "fog_end": 0.75,
+    "fog_type": 0,
+    "fog_density": 0.15000000596046449,
+    "fog_color": {
+        "values": [
+            0.5,
+            0.5,
+            0.5
+        ]
+    }
+}
